@@ -72,7 +72,7 @@
 - [Django](https://github.com/zodman/inertia-django)
 - [Fiber](https://github.com/theArtechnology/fiber-inertia)
 - [Node.js](https://github.com/jordankaerim/inertia-node)
-- [Masonite](https://github.com/girardinsamuel/masonite-inertia)
+- [Masonite](https://github.com/girardinsamuel/masonite-inertia) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/girardinsamuel/masonite-inertia/master) ![GitHub release (with filter)](https://img.shields.io/github/v/release/girardinsamuel/masonite-inertia)
 - [WordPress](https://github.com/boxybird/wordpress-inertia-plugin)
 - [Flask](https://github.com/j0ack/flask-inertia)
 - [Adonis](https://github.com/eidellev/inertiajs-adonisjs)
